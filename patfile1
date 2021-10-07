@@ -1,0 +1,2 @@
+echo "enter yout name"
+read n1
